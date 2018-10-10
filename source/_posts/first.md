@@ -2,6 +2,7 @@
 title: ブログ開設
 date: 2018-10-10 05:13:20
 tags: その他
+thumbnail: https://briand-steak.github.io/blog/images/logo.png
 ---
 
 ## 自己紹介
