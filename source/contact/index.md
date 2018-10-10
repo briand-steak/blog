@@ -8,4 +8,4 @@ date: 2018-10-11 02:48:05
 
 もし撮影のご依頼等がございましたら、こちらも Twitter のリプライまたはDMでご連絡ください。
 
-Twitter: @briand_steak
+Twitter: [@briand_steak](https://twitter.com/briand_steak "Twitter ホーム")
