@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ぶりあんすてーき
+title: ����Ɓ[�Ԃ肠��
 subtitle:
 description:
 keywords:
-author: ブリアン
+author: briand_steak
 language: ja
-timezone:
+timezone: 'JST'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
