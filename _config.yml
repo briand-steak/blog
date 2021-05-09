@@ -80,4 +80,4 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:briand-steak/blog.git
-  branch: gh-pages
+  branch: master
